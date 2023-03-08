@@ -1,0 +1,14 @@
+[
+    {
+        "planeta": "Marte",
+        "criado_em": "2023",
+        "descricao": "Planeta Vermelho"
+    },
+    
+    {
+        "planeta": "Terra",
+        "criado_em": "2023",
+        "descricao": "Planeta Azul"
+    }
+    
+]
